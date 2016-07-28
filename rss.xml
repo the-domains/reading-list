@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Reading List]]></title>
+        <description><![CDATA[Reading List]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jul 2016 19:24:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About this Project]]></title>
+            <description><![CDATA[<article><h1>About this Project</h1><p>I decided to be more structured in keeping and organizing the reading, and consequently, the thinking about the reading, that I do on a daily basis. This blog will be the place that I track my reading and my thinking; it is a commonplace book of sorts.</p></article>]]></description>
+            <link>undefinedabout-this-project/index.html</link>
+            <guid isPermaLink="false">2f9e1822-9107-4274-b821-83a7ed51bc29</guid>
+            <pubDate>Thu, 28 Jul 2016 19:24:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
