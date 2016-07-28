@@ -2,6 +2,7 @@ name: Reading List
 favicon: null
 layout_spectrum: 0.613684854703024
 typography_spectrum: 0.7323744234163314
+title: My Reading List
 cta:
   domain: null
   bucket: null
